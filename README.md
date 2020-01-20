@@ -1,2 +1,3 @@
 # intechinvestments
-branding etc
+
+See intechinvestments.com for copyright information
