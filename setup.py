@@ -10,8 +10,8 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="intechinvestments",
-    version="0.0.3",
-    description="Intech Investments Branding materials",
+    version="0.0.5",
+    description="Intech Investments Branding",
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://www.intechinvestments.com/contact",
